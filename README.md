@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alfredoFaro98
-- 👀 I’m interested in Intelligent Systems Algorithm, UI and UX design, Statistics and Robotics 
-- 🌱 I’m currently learning Maths for Data science and Machine Learning
-- 💞️ I’m looking to collaborate with noOne
+- 👀 I’m interested in ML Algorithms, UI and UX design, Statistics and Cross-app platform development 
+- 🌱 I’m currently learning Deep Learning and Turing Machine
 - 📫 How to reach me 
 
 <!---
