@@ -64,15 +64,6 @@
   <img src="https://img.shields.io/badge/Formal%20Languages-L(G)-242938?style=for-the-badge" />
 </p>
 
-### Hardware & Electronics
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,arduino&titles=true" />
-  <img src="https://img.shields.io/badge/PC%20Building-🖥️-242938?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Hardware-🔧-242938?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electronics-⚡-242938?style=for-the-badge" />
-</p>
-
 ### Software Engineering
 
 <p>
@@ -85,5 +76,5 @@
 ## Currently Improving
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,wireshark,linux,terminal&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,wireshark,linux,terminal,arduino,raspberrypi&titles=true" />
 </p>
