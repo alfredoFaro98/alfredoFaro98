@@ -3,7 +3,7 @@
 ### Development & Frameworks
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,kotlin,perl,cs,dotnet,html,css,javascript,bootstrap,spring,springboot,maven,gradle,junit,android,androidstudio&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,kotlin,perl,cs,dotnet,html,css,javascript,bootstrap,spring,maven,gradle,junit,android,androidstudio&titles=true" />
 </p>
 
 ### Databases, AI & Tools
