@@ -3,7 +3,8 @@
 ### Development & Frameworks
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,kotlin,perl,cs,dotnet,html,css,javascript,bootstrap,xml,spring,springboot,maven,gradle,junit,android,androidstudio&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,kotlin,perl,cs,dotnet,html,css,javascript,bootstrap,spring,springboot,maven,gradle,junit,android,androidstudio&titles=true" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
 </p>
 
 ### Databases, AI & Tools
