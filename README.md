@@ -6,6 +6,12 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,kotlin,perl,cs,dotnet&titles=true" />
 </p>
 
+### Web Development
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,xml&titles=true" />
+</p>
+
 ### Mobile Development
 
 <p>
@@ -46,12 +52,6 @@
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,powershell,bash,terminal,wsl&titles=true" />
-</p>
-
-### Networking
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,linux,terminal&titles=true" />
 </p>
 
 ### Theoretical Computer Science
