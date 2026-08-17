@@ -9,7 +9,7 @@
 ### Databases, AI & Tools
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,sqlite,firebase,r,rstudio,pytorch,tensorflow,scikitlearn,jupyter,chatgpt,claude,gemini,visualstudio,vscode,idea,eclipse,postman&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,sqlite,firebase,r,pytorch,tensorflow,scikitlearn,jupyter,chatgpt,claude,gemini,visualstudio,vscode,idea,eclipse,postman&titles=true" />
 </p>
 
 ### DevOps, Systems & Productivity
